@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CompClino</string>
+    <string name="comp_label">COMPASS</string>
+    <string name="clino_label">CLINO</string>
+    <string name="add_button">ADD</string>
+    <string name="save_button">SAVE</string>
+    <string name="send_button">SEND</string>
 </resources>
